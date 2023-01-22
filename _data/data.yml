@@ -49,12 +49,12 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
-    info:
-      - degree: PhD in Management
-        university: University of Birmingham
-        time: 2019 - 2023
-        details: |
+#    title: Education
+#    info:
+#      - degree: PhD in Management
+#        university: University of Birmingham
+#        time: 2019 - 2023
+#        details: |
 #           Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #          sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -62,10 +62,10 @@ education:
 #          pretium quis, sem.
 #            - Bullet point
 #            - Bullet point
-      - degree: MSc in Business Economics
-        university: University of Sussex
-        time: 2017 - 2018
-        details: |
+#      - degree: MSc in Business Economics
+#        university: University of Sussex
+#        time: 2017 - 2018
+#        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #          sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -74,134 +74,107 @@ education:
 #            - Bullet point
 #            - Bullet point
 experiences:
-    title: Experiences
+    title: Education
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: PhD in Management
+        time: 2019 - Present
+        company: University of Birmingham, Birmingham (UK)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+            - Research topic: The Empirical analyses on the legal and economic integration of immigrants and refugees in host countries, particularly, in Europe.
             - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: MSc in Business Economics (Distinction)
+        time: 2017 - 2018
+        company: University of Sussex, Brighton (UK)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Modules include Quantitative Methods for Finance & Business; Financial and Time Series Econometrics; and Managerial and Human Resource Economics
+            - Dissertation: “The Relation between Employment and Technological Innovation in the UK after the Emergence of Machine Learning and Mobile Robotics”
+      - role: MA in Public Administration (3.7/4.0)
+        time: 2006 - 2008
+        company: International Christian University, Tokyo (Japan)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Modules: Japanese Development Cooperation; Political Theory; Analytics of Asian Economic Development; and Social Problems and Policy
+
 projects:
-    title: Projects
+    title: Awards
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: The Joint Japan/World Bank Graduate Scholarship
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "July 2019"
 
-      - title: DevStudio
+      - title: Academic award in Studies on Global Governance 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "March 2006"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Presentations
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
+      - title: 28 November 2022: Workshop on the Integration of Refugee Families in Host Countries: Research Advances, Policy Improvements, and Data Challenges (Germany)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "DIW Berlin"
 
-      - title: Atom
+      - title: 29 September 2022: Eureka seminar (the Netherlands)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Vrije Universiteit Amsterdam"
 
-      - title: Delta
+      - title: 23-26 August 2022: 61st ERSA Congress (Online)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "European Regional Studies Association"
+
+      - title: 7-8 July 2022: 5th Neuchâtel Graduate Conference of Migration and Mobility Studies (Switzerland)
+        link: "#"
+        tagline: "National Centres of Competence in Research (NCCRs)"
+        
+      - title: 6-7 June 2022: University of Birmingham – VU Amsterdam Big Data and Economics Research Network workshop (UK)
+        link: "#"
+        tagline: "University of Birmingham"
+        
+      - title: 9 May 2022 : Cambridge Land Economy Conference for Early Career Researchers (UK)
+        link: "#"
+        tagline: "University of Cambridge"        
 
 publications:
-    title: Publications
+    title: Publications / Working papers
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Legal and Economic Integration of Refugees: What Works?"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Ceren Ozgen, Matthew Cole, Hiromi Yumoto
+        conference: "IRiS 10th anniversary - Anthology (forthcoming)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Local Labour Market Training and Civic Integration Exams: Examining the Employment Outcomes of Refugees"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Matthew Cole, Liza Jabbour, Ceren Ozgen, and Hiromi Yumoto
+        #conference: ""
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Invisible Immigrants: The determinants of the legal integration of refugees
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Matthew Cole, Liza Jabbour, Ceren Ozgen, and Hiromi Yumoto
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Stata & R & SPSS
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Overleaf
+        #level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: github
+        # level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
