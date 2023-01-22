@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Hiromi Yumoto
     tagline: PhD Candidate | University of Birmingham
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_yumoto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yumoto.hiromi@gmail.com
@@ -117,29 +117,29 @@ oss:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: 28 November 2022: Workshop on the Integration of Refugee Families in Host Countries 
+      - title: Workshop on the Integration of Refugee Families in Host Countries 
         link: "#"
-        tagline: "DIW Berlin, Germany"
+        tagline: "28 November 2022, DIW Berlin (Germany)"
 
-      - title: 29 September 2022: Eureka seminar 
+      - title: Eureka seminar 
         link: "#"
-        tagline: "Vrije Universiteit Amsterdam, the Netherlands"
+        tagline: "29 September 2022, Vrije Universiteit Amsterdam (the Netherlands)"
 
-      - title: 23-26 August 2022: 61st ERSA Congress
+      - title: 61st ERSA Congress
         link: "#"
-        tagline: "European Regional Studies Association, Online"
+        tagline: "23-26 August 2022, European Regional Studies Association (Online)"
 
-      - title: 7-8 July 2022: 5th Neuchâtel Graduate Conference of Migration and Mobility Studies
+      - title: 5th Neuchâtel Graduate Conference of Migration and Mobility Studies
         link: "#"
-        tagline: "National Centres of Competence in Research (NCCRs), Switzerland"
+        tagline: "7-8 July 2022, National Centres of Competence in Research (Switzerland)"
         
-      - title: 6-7 June 2022: University of Birmingham – VU Amsterdam Big Data and Economics Research Network workshop
+      - title: University of Birmingham – VU Amsterdam Big Data and Economics Research Network workshop
         link: "#"
-        tagline: "University of Birmingham, UK"
+        tagline: "6-7 June 2022, University of Birmingham (the UK)"
         
-      - title: 9 May 2022 : Cambridge Land Economy Conference for Early Career Researchers
+      - title: Cambridge Land Economy Conference for Early Career Researchers
         link: "#"
-        tagline: "University of Cambridge, UK"      
+        tagline: "9 May 2022, University of Cambridge (the UK)"      
 
 publications:
     title: Publications / Working papers
