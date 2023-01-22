@@ -117,29 +117,29 @@ oss:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: 28 November 2022: Workshop on the Integration of Refugee Families in Host Countries (Germany)
+      - title: 28 November 2022: Workshop on the Integration of Refugee Families in Host Countries 
         link: "#"
-        tagline: "DIW Berlin"
+        tagline: "DIW Berlin, Germany"
 
-      - title: 29 September 2022: Eureka seminar (the Netherlands)
+      - title: 29 September 2022: Eureka seminar 
         link: "#"
-        tagline: "Vrije Universiteit Amsterdam"
+        tagline: "Vrije Universiteit Amsterdam, the Netherlands"
 
-      - title: 23-26 August 2022: 61st ERSA Congress (Online)
+      - title: 23-26 August 2022: 61st ERSA Congress
         link: "#"
-        tagline: "European Regional Studies Association"
+        tagline: "European Regional Studies Association, Online"
 
-      - title: 7-8 July 2022: 5th Neuchâtel Graduate Conference of Migration and Mobility Studies (Switzerland)
+      - title: 7-8 July 2022: 5th Neuchâtel Graduate Conference of Migration and Mobility Studies
         link: "#"
-        tagline: "National Centres of Competence in Research (NCCRs)"
+        tagline: "National Centres of Competence in Research (NCCRs), Switzerland"
         
-      - title: 6-7 June 2022: University of Birmingham – VU Amsterdam Big Data and Economics Research Network workshop (UK)
+      - title: 6-7 June 2022: University of Birmingham – VU Amsterdam Big Data and Economics Research Network workshop
         link: "#"
-        tagline: "University of Birmingham"
+        tagline: "University of Birmingham, UK"
         
-      - title: 9 May 2022 : Cambridge Land Economy Conference for Early Career Researchers (UK)
+      - title: 9 May 2022 : Cambridge Land Economy Conference for Early Career Researchers
         link: "#"
-        tagline: "University of Cambridge"        
+        tagline: "University of Cambridge, UK"      
 
 publications:
     title: Publications / Working papers
