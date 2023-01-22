@@ -40,14 +40,10 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    I am a PhD candidate in Management at the University of Birmingham. 
+    My research interest lies in the areas of Economics of Migration and Labour Economics. Current topics includes economic and legal integration  of refugees in European countries.
 education:
 #    title: Education
 #    info:
@@ -78,21 +74,20 @@ experiences:
     info:
       - role: PhD in Management
         time: 2019 - Present
-        company: University of Birmingham, Birmingham (UK)
+        company: University of Birmingham, Birmingham (the UK)
         details: |
             - Research topic: The Empirical analyses on the legal and economic integration of immigrants and refugees in host countries, particularly, in Europe.
-            - Bullet point
+   
       - role: MSc in Business Economics (Distinction)
         time: 2017 - 2018
-        company: University of Sussex, Brighton (UK)
+        company: University of Sussex, Brighton (the UK)
         details: |
-            - Modules include Quantitative Methods for Finance & Business; Financial and Time Series Econometrics; and Managerial and Human Resource Economics
             - Dissertation: “The Relation between Employment and Technological Innovation in the UK after the Emergence of Machine Learning and Mobile Robotics”
+            
       - role: MA in Public Administration (3.7/4.0)
         time: 2006 - 2008
         company: International Christian University, Tokyo (Japan)
         details: |
-            - Modules: Japanese Development Cooperation; Political Theory; Analytics of Asian Economic Development; and Social Problems and Policy
 
 projects:
     title: Awards
@@ -101,7 +96,7 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: The Joint Japan/World Bank Graduate Scholarship
+      - title: The Joint Japan / World Bank Graduate Scholarship
         link: "#hook"
         tagline: "July 2019"
 
@@ -168,13 +163,10 @@ skills:
 
     toolset:
       - name: Stata & R & SPSS
-        #level: 98%
-
+      
       - name: Overleaf
-        #level: 98%
 
       - name: github
-        # level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
