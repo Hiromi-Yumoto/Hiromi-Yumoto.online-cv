@@ -14,16 +14,16 @@ sidebar:
     # Sidebar links
     email: yumoto.hiromi@gmail.com
     # phone: 012 345 6789
-    #timezone: America/Cancun Timezone
     citizenship:
-    #website: blog.webjeda.com #do not add http://
     linkedin: Hiromi Yumoto
-    #xing: alandoe
     github: Hiromi-Yumoto
+    twitter: '@Yumoto78223249'
+    #timezone: America/Cancun Timezone
+    #website: blog.webjeda.com #do not add http://
+    #xing: alandoe
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
-    twitter: '@Yumoto78223249'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -153,12 +153,12 @@ publications:
         authors: Matthew Cole, Liza Jabbour, Ceren Ozgen, and Hiromi Yumoto
         #conference: ""
 
-      - title: "Invisible Immigrants: The determinants of the legal integration of refugees"
+      - title: "Invisible Immigrants: The Determinants of the Legal Integration of Refugees"
         link: "#"
         authors: Matthew Cole, Liza Jabbour, Ceren Ozgen, and Hiromi Yumoto
         #conference: "Comm. ACM 4 (1961), 51–55"
         
-      - title: "The value of essential workers: examining changes in pay and precarity over time"
+      - title: "The Value of Essential Workers: Examining Changes in Pay and Precarity over Time"
         link: "#"
         authors: Paul Lewis, Fiona Carmichael, Unaysah Mogra and Hiromi Yumoto
         #conference: "Comm. ACM 4 (1961), 51–55"
@@ -169,7 +169,7 @@ skills:
     toolset:
       - name: Stata & R & SPSS
       
-      - name: Latex (Overleaf)
+      - name: Latex
 
       - name: github
 
