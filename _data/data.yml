@@ -146,7 +146,7 @@ publications:
       - title: "Legal and Economic Integration of Refugees: What Works?"
         link: "#"
         authors: Ceren Ozgen, Matthew Cole, Hiromi Yumoto
-        conference: "IRiS 10th anniversary - Anthology (forthcoming)"
+        conference: "Institute for Research into Superdiversity 10th anniversary - Anthology (forthcoming)"
 
       - title: "Local Labour Market Training and Civic Integration Exams: Examining the Employment Outcomes of Refugees"
         link: "#"
@@ -156,6 +156,11 @@ publications:
       - title: "Invisible Immigrants: The determinants of the legal integration of refugees"
         link: "#"
         authors: Matthew Cole, Liza Jabbour, Ceren Ozgen, and Hiromi Yumoto
+        #conference: "Comm. ACM 4 (1961), 51–55"
+        
+      - title: "The value of essential workers: examining changes in pay and precarity over time"
+        link: "#"
+        authors: Paul Lewis, Fiona Carmichael, Unaysah Mogra and Hiromi Yumoto
         #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
