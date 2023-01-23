@@ -49,7 +49,7 @@ education:
 #    info:
 #      - degree: PhD in Management
 #        university: University of Birmingham
-#        time: 2019 - 2023
+#        time: Sep 2019 - 2023
 #        details: |
 #           Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -60,7 +60,7 @@ education:
 #            - Bullet point
 #      - degree: MSc in Business Economics
 #        university: University of Sussex
-#        time: 2017 - 2018
+#        time: Sep 2017 - Sep 2018
 #        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -73,21 +73,26 @@ experiences:
     title: Education
     info:
       - role: PhD in Management
-        time: 2019 - Present
+        time: Sep 2019 - Present
         company: University of Birmingham, Birmingham (the UK)
         details: |
             - Research topic: The Empirical analyses on the legal and economic integration of immigrants and refugees in host countries, particularly, in Europe.
+
    
       - role: MSc in Business Economics (Distinction)
-        time: 2017 - 2018
+        time: Sep 2017 - Sep 2018
         company: University of Sussex, Brighton (the UK)
         details: |
             - Dissertation: “The Relation between Employment and Technological Innovation in the UK after the Emergence of Machine Learning and Mobile Robotics”
             
       - role: MA in Public Administration (3.7/4.0)
-        time: 2006 - 2008
+        time: Apr 2006 - Mar 2008
         company: International Christian University, Tokyo (Japan)
         details: |
+
+      - role: BA in International Studies
+        time: Apr 2002 - Mar 2006
+        company: International Christian University, Tokyo (Japan)
 
 projects:
     title: Awards
@@ -146,7 +151,7 @@ publications:
       - title: "Legal and Economic Integration of Refugees: What Works?"
         link: "#"
         authors: Ceren Ozgen, Matthew Cole, Hiromi Yumoto
-        conference: "Institute for Research into Superdiversity 10th anniversary - Anthology (forthcoming)"
+        conference: "The IRiS Anthology on migration and diversity (forthcoming)"
 
       - title: "Local Labour Market Training and Civic Integration Exams: Examining the Employment Outcomes of Refugees"
         link: "#"
@@ -168,10 +173,8 @@ skills:
 
     toolset:
       - name: Stata & R & SPSS
-      
       - name: Latex
-
       - name: github
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
